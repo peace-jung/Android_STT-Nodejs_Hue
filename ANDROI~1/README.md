@@ -1,5 +1,5 @@
-# Speace To Text for Android
+### Speake To Text for Android
 
-## Android can connect to Node.js
+### Android can connect to Node.js
 
-## If you speak, send the text to Node.js Server
+### If you speak, send the text to Node.js Server
